@@ -6,3 +6,14 @@
 - ⚡ Fun fact: My team won **Best Poster Presentation** under the **Theoretical, Computational, and Instrumentation Physics** category at a National Conference for our thesis on the **Design and Fabrication of an Impedance Tube to Measure Sound Absorption Coefficient**.  
 
 
+## 🛠️ Languages and Tools  
+
+### Programming and Tools:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
+
+### Machine Learning and Deep Learning:  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  

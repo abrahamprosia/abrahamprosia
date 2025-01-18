@@ -2,8 +2,8 @@
 
 - 🖊️ Currently a 4th-year Physics student.  
 - 🩻 I’m passionate about Machine Learning, Neural Networks, and AI, and their applications in Physics and other fields.  
-- ✉️ Feel free to reach me at: abraham.prosia0707@gmail.com.  
-- 🥇 Fun fact: My team won **Best Poster Presentation** under the **Theoretical, Computational, and Instrumentation Physics** category at a National Physics Conference for our research on the **Design and Fabrication of an Impedance Tube to Measure Sound Absorption Coefficient of Selected Sound Absorbing Materials**.  
+- 🥇 Fun fact: My team won **Best Poster Presentation** under the **Theoretical, Computational, and Instrumentation Physics** category at a National Physics Conference for our research on the **Design and Fabrication of an Impedance Tube to Measure Sound Absorption Coefficient of Selected Sound Absorbing Materials**.
+- ✉️ Feel free to reach me at: abraham.prosia0707@gmail.com. 
 
 
 ### 💻 Language:  

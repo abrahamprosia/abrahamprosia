@@ -2,7 +2,7 @@
 
 - 🖊️ I am a Physics Graduate
 - 🩻 I’m passionate about Machine Learning, Neural Networks, and their applications in Physics and other related fields.
-- 📰 Read my articles here: https://medium.com/@abraham.prosia0707
+- 📰 Read my article/s here: https://medium.com/@abraham.prosia0707
 - 📩 Feel free to reach me at: abraham.prosia0707@gmail.com. 
 - 🥇 Fun fact: My team won **Best Poster Presentation** under the **Theoretical, Computational, and Applied Physics** category at a National Physics Conference for our research on the **Design and Fabrication of an Impedance Tube to Measure Sound Absorption Coefficient of Selected Sound Absorbing Materials**.
 
